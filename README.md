@@ -1,4 +1,4 @@
-# Análise Interativa de Vendas de Supermercadodada
+# Análise Interativa de Vendas de Supermercado
 
 Este projeto utiliza Python e a biblioteca Streamlit para criar uma aplicação web interativa que analisa dados de vendas de um supermercado. Explore e analise os dados de vendas de forma fácil e intuitiva, personalizando a análise conforme o mês desejado!
 
